@@ -30,6 +30,6 @@
 
 @media (max-width: 1100px) {
     body {
-        background-size: -100px !important;
+        background-size: -100px;
     }
 }
